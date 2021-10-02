@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Sameeh Akram 
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Big data and hadoop ecosystem.
-- 💞️ I’m looking to collaborate on Big Data. 
+- 👀 I’m interested in Data Analysis and Big Data.
+- 🌱 I’m currently learning Big Data and Hadoop Ecosystem.
+- 💞️ I’m looking to collaborate on Data Analytics. 
 - 📫 You can reach me at sameehakram@protonmail.com.
 
 <!---
