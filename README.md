@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Sameeh Akram aka @sameehakram
+- 👋 Hi, I’m Muhammad Sameeh Akram 
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Big data and hadoop ecosystem.
 - 💞️ I’m looking to collaborate on Big Data. 
